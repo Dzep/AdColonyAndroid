@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdColony Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="play_video">Play Video</string>
+    <string name="check_video_ad_availability">Check Video Ad Availability</string>
+    <string name="available">Available</string>
+    <string name="not_available">Not Available</string>
+
+</resources>
